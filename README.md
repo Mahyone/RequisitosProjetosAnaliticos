@@ -5,6 +5,8 @@ Data 18.05.2021
 
 Projeto de Requisitos e Desafios de Projetos Analíticos, abordagem de conceitos e estrutura de Termo de Abertura.  
 
+** Dados sobre Projeto real realizado, porém removidas as partes relacionada à privacidade da empresa e de pessoas.
+
 -------------------------------
 
 Estrutura formal para Abertura de Projetos Analíticos:    
