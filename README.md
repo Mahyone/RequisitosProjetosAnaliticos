@@ -15,8 +15,7 @@ Estrutura formal para Abertura de Projetos Analíticos:
 2. Abordagem conceitual aplicada para mapear o Projeto;  
 3. Diagrama de Rede, com todo o caminho percorrido para a solução, e respectivos prazos;  
 4. Termo de Abertura, com todos os detalhes do Projeto;  
-5. Estrutura Analítica do Projeto, com o detalhamento de todas as etapas para cada Marco;  
-6. Análise de Riscos do Projeto, Estratégia para Mitigar e Reação;  
-7. Normas e Políticas/Leis que impactam o Projeto;  
+5. Análise de Riscos do Projeto, Estratégia para Mitigar e Reação;  
+6. Normas e Políticas/Leis que impactam o Projeto;  
 
 
